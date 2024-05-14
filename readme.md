@@ -30,6 +30,8 @@ cd KYC-Watermark-Bot``
 - Send a photo to the bot and add caption **/wm your_text** to the photo to add a custom watermark to the photo.
 - The original photos will automatically deleted after processing
 
+![alt text](https://github.com/luqmanhy/KYC-Watermark-Bot/blob/main/kyc-example.jpg?raw=true)
+
 ## Contributing
 
 Contributions are always welcome!
