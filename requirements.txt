@@ -1,0 +1,5 @@
+requests
+colorama
+Flask
+python-dotenv
+pillow
